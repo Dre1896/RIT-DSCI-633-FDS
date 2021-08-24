@@ -5,4 +5,4 @@ Course taught in Fall'21.
 ## Course Material
 | Date | Lecture | Assignment | Due Date | 
 |------|-------|------------|----------|
-| Lecture 1 (08/24)| [Introduction to Data Mining]() | n/a | n/a |
+| Lecture 1 (08/24)| [Introduction to Data Mining](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture01/Lec01.pptx) | n/a | n/a |
