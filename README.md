@@ -27,9 +27,15 @@ Knowledge of Python and Github is required.  An excellent primer for python can 
 ## Syllabus and Policies
 The course uses GitHub for assignment submission, discussions, and questions. I will post slides assignments and any recorded videos here.
 
-**Textbook**: We will be using [Pang-Ning Tan's "Introduction to Data Mining (Second Edition)" (ISBN-13: 978-0133128901)](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php) throughout the course. However, there is no need to buy that book since the slides will cover all the content you need.
+**Textbook**: TBD
 
-**Grading**: Evaluation will be based on the following distribution: 63% assignments, 37% project. A detailed grading policy can be found at the end of the description of each assignment and project.
+**Grading**: Evaluation will be based on the following distribution: 
+
+|Activity| % Distribution |
+|--|--|
+|Assignments| 60% |
+|Final project report and presentation| 35% |
+|Class Participation| 5% |
 
 **Late work policy**:
 - 25% deducted, if submitted within the first 24 hours after deadline.
