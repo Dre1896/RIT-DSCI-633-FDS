@@ -1,9 +1,9 @@
 
 # DSCI-633: Foundations of Data Science & Analytics
 Course taught in Fall'21.
-[Syllabus](https://github.com/hil-se/fds/blob/master/README.md) |
-[Slides and Assignments](https://github.com/hil-se/fds/blob/master/assignments/README.md) |
-[Instructor](https://www.rit.edu/directory/nxrvse-nidhi-rastogi) 
+
+[Syllabus](https://github.com/aiforsec/RIT-DSCI-633-FDS/Syllabus/README.md) |
+[Instructor](https://www.rit.edu/directory/nxrvse-nidhi-rastogi)
 
 ## Course Description
 This is a foundation course in data science, which emphasizes both concepts and techniques. The course provides an overview of data analysis tasks and the associated challenges, including data preprocessing, model building, validation, and evaluation. Major families of data analysis techniques covered include classification, clustering, association analysis, anomaly detection, and statistical testing. The course consists of a series of programming assignments that will involve implementing specific techniques on practical datasets from diverse application domains, reinforcing the concepts and techniques covered in lectures. The best way to learn an algorithm is to implement and apply it yourself. You will experience that in this course. This course is taught at Rochester Institute of Technology in Fall 2021. 
