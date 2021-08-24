@@ -1,6 +1,7 @@
 
 # DSCI-633: Foundations of Data Science & Analytics
 Course taught in Fall'21.
+
 [Syllabus](https://github.com/hil-se/fds/blob/master/README.md) |
 [Slides and Assignments](https://github.com/hil-se/fds/blob/master/assignments/README.md) |
 [Instructor](https://www.rit.edu/directory/nxrvse-nidhi-rastogi) 
