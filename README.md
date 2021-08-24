@@ -47,9 +47,7 @@ The course uses GitHub for assignment submission, discussions, and questions. I 
 |Class Participation| 5% |
 
 **Late work policy**:
-- 25% deducted, if submitted within the first 24 hours after deadline.
-- 50% deducted, if submitted within the next 24 hours.
-- 100% deducted thereafter.
+- 0 Credit for the Assignment or Project if submitted after deadline.
 
 Exceptions: Under extraordinary circumstances involving self, a friend, or a family member. Highly creative excuses will be given a few minutes of attention and nothing further.
 
