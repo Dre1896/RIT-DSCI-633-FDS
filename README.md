@@ -2,7 +2,7 @@
 # DSCI-633: Foundations of Data Science & Analytics
 Course taught in Fall'21.
 
-[Syllabus](https://github.com/aiforsec/RIT-DSCI-633-FDS/Syllabus/README.md) |
+[Syllabus](https://github.com/aiforsec/RIT-DSCI-633-FDS/tree/main/Syllabus/README.md) |
 [Instructor](https://www.rit.edu/directory/nxrvse-nidhi-rastogi)
 
 ## Course Description
