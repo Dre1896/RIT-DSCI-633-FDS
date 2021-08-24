@@ -5,4 +5,4 @@ Course taught in Fall'21.
 ## Course Material
 | Date | Lecture | Assignment | Due Date | 
 |------|-------|------------|----------|
-| Lecture 1 (08/24)| [Introduction to Data Mining]() | [Assignment0](), [Assignment1]() | Before Lecture 2|
+| Lecture 1 (08/24)| [Introduction to Data Mining]() | [Assignment1]() | Before Lecture 2|
