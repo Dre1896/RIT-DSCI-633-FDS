@@ -12,7 +12,7 @@
 ## Office Hours
 
 - Nidhi's Office Hours: Tuesday: 9:15 AM - 10:15 AM EST, Rm 1573 or Zoom
-- TA- Rigved Rakshit's Office Hours: Tuesday, Thursday: 9:30 AM - 10:30 AM EST, Rm tbd or Zoom
+- Teachin Assistant, Rigved Rakshit's Office Hours: Tuesday, Thursday: 9:30 AM - 10:30 AM EST, Rm tbd or Zoom
 
 ## Course Description
 This is a foundation course in data science, which emphasizes both concepts and techniques. The course provides an overview of data analysis tasks and the associated challenges, including data preprocessing, model building, validation, and evaluation. Major families of data analysis techniques covered include classification, clustering, association analysis, anomaly detection, and statistical testing. The course consists of a series of programming assignments that will involve implementing specific techniques on practical datasets from diverse application domains, reinforcing the concepts and techniques covered in lectures. The best way to learn an algorithm is to implement and apply it yourself. You will experience that in this course. This course is taught at Rochester Institute of Technology in Fall 2021. 
@@ -37,7 +37,7 @@ Knowledge of Python and Github is required.  An excellent primer for python can 
 The course uses GitHub for assignment submission, discussions, and questions. I will post slides assignments and any recorded videos here.
 
 **Textbook**:
-- "An Introduction to Statistical Learning with Applications in R" by: Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
+- "An Introduction to Statistical Learning with Applications in R" by: Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani ((Book made available online by the author))[https://web.stanford.edu/~hastie/ISLRv2_website.pdf]
 - "Pattern Recognition and Machine Learning", by Christopher M. Bishop
 
 
