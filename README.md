@@ -37,7 +37,7 @@ Knowledge of Python and Github is required.  An excellent primer for python can 
 The course uses GitHub for assignment submission, discussions, and questions. I will post slides assignments and any recorded videos here.
 
 **Textbook**:
-- "An Introduction to Statistical Learning with Applications in R" by: Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani ((Book made available online by the author))[https://web.stanford.edu/~hastie/ISLRv2_website.pdf]
+- "An Introduction to Statistical Learning with Applications in R" by: Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani [(Book made available online by the author)](https://web.stanford.edu/~hastie/ISLRv2_website.pdf)
 - "Pattern Recognition and Machine Learning", by Christopher M. Bishop
 
 
