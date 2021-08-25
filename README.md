@@ -3,7 +3,6 @@
 
 [Syllabus](https://github.com/aiforsec/RIT-DSCI-633-FDS/tree/main/Syllabus/README.md) |
 [Instructor](https://www.rit.edu/directory/nxrvse-nidhi-rastogi) |
-[TAs]() TBD
 
 ## Class Schedule
 - Course taught in Fall'21.
