@@ -10,7 +10,7 @@
 
 ## Office Hours
 
-- Teaching Assistant, Rigved Rakshit's Office Hours: Tuesday, Thursday: 9:30 AM - 10:30 AM EST, on [Zoom](https://rit.zoom.us/j/99828008122?pwd=Y1U4TFB4NFR1eGFMeFBXT2kwenJlZz09)
+- Teaching Assistant, Rigved Rakshit's Office Hours: Tuesday, Thursday: 10:00 AM - 11:00 AM EST, on [Zoom](https://rit.zoom.us/j/99828008122?pwd=Y1U4TFB4NFR1eGFMeFBXT2kwenJlZz09)
 - Nidhi's Office Hours: Tuesday: 9:15 AM - 10:15 AM EST, Rm 1573 or Zoom
 
 ## Course Description
