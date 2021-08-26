@@ -65,3 +65,6 @@ Please discuss a requirement for any accommodation due to a disability early in 
 RIT provides several helpful resources, do not hesitate to ask for help from us. Some of the links are given below:
 - [Counseling and Psychological Services (CaPS)](https://www.rit.edu/studentaffairs/counseling/) 
 - Call 585-475-2261 for urgent matters or email <caps@rit.edu> for non-urgent cases.
+
+**Disclaimer**
+Not all material has been created from scrath. I have tried my best to credit the source, but if you see that missing anywhere, please contact me via RIT email.
