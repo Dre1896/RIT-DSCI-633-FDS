@@ -36,6 +36,7 @@ Knowledge of Python and Github is required.  An excellent primer for python can 
 The course uses GitHub for assignment submission, discussions, and questions. I will post slides assignments and any recorded videos here.
 
 **Textbook**:
+- "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition" by Aurélien Géron (2019), [Link to e-Book](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf)
 - "An Introduction to Statistical Learning with Applications in R" by: Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani [(e-book made available by the authors)](https://web.stanford.edu/~hastie/ISLRv2_website.pdf)
 - "Pattern Recognition and Machine Learning", by Christopher M. Bishop
 
