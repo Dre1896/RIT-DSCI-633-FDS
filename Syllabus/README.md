@@ -4,11 +4,11 @@ Course taught in Fall'21.
 [HOME](https://github.com/aiforsec/RIT-DSCI-633-FDS)
 ## Course Material
 | Date | Lecture | Assignment/Quiz | Due Date | 
-|------|-------|------------|----------|
-| Lecture 1 (08/24)| [Introduction to Data Mining](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture01/Lec01.pptx) | n/a | n/a |
-| Lecture 2 (08/26)[Zoom Recording](https://rit.zoom.us/rec/share/KzqVMPFxiQuyh5gc_082lpMAbuq_l0qBFWq5J-IhcEqSFJDH4JGW9NsujsPNL7Bh.EwV9roO3NykOJwU9)| [Use Case](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture02/Lec02_CaseStudy.pptx) | [Assignment 1](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture02/Assignment_Lec02.pptx) | 07:59a, 08/31/21 EST |
-| Project Teams formed by (4-5 members), Connect on slack. Email Names, Project topic, Dataset link to TA via email| | |07:59a, 09/14/21 EST|
-| Lecture 3 (08/31)[Zoom Recording](https://rit.zoom.us/rec/share/4DVf39c6gjH8B8Eoagsy_UQkL_1bDPVrL1B9HnRiEDQxIrgrd90PhdIL7tL4TV-b.25eVdTjxCAgEBV2s)| [End-2-End ML Project](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture03/Lec03.pptx) | Pop-Quiz added on myCourse | n/a |
+|-------|----------|--------------------------|----------|
+| 08/24 |Lecture 1 | [Introduction to Data Mining](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture01/Lec01.pptx) | n/a | n/a |
+| 08/26 |[Recorded Lecture 2](https://rit.zoom.us/rec/share/KzqVMPFxiQuyh5gc_082lpMAbuq_l0qBFWq5J-IhcEqSFJDH4JGW9NsujsPNL7Bh.EwV9roO3NykOJwU9)| [Use Case](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture02/Lec02_CaseStudy.pptx) | [Assignment 1](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture02/Assignment_Lec02.pptx) | 07:59a, 08/31/21 EST |
+| 08/26 | Project Teams formed by (4-5 members), Connect on slack. Email Names, Project topic, Dataset link to TA via email| | |07:59a, 09/14/21 EST|
+| 08/31 | [Recorded Lecture 3](https://rit.zoom.us/rec/share/4DVf39c6gjH8B8Eoagsy_UQkL_1bDPVrL1B9HnRiEDQxIrgrd90PhdIL7tL4TV-b.25eVdTjxCAgEBV2s)| [End-2-End ML Project](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture03/Lec03.pptx) | Pop-Quiz added on myCourse | end of class |
 
 
 
