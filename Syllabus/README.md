@@ -10,8 +10,6 @@ Course taught in Fall'21.
 | 08/26 | Project Teams formed by (4-5 members), Connect on slack. Email Names, Project topic, Dataset link to TA via email| | |07:59a, 09/14/21 EST|
 | 08/31 | [Recorded Lecture 3](https://rit.zoom.us/rec/share/4DVf39c6gjH8B8Eoagsy_UQkL_1bDPVrL1B9HnRiEDQxIrgrd90PhdIL7tL4TV-b.25eVdTjxCAgEBV2s), [End-2-End ML Project](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture03/Lec03.pptx) | Pop-Quiz added on myCourses | end of class |
 | 09/02/31 | [Recorded Lecture 4](https://rit.zoom.us/rec/share/j8UE8RdCwzxM8HVG7QUKX1OF3RId-Keh2EjYzI8mENjQ8noNzDS3w6NqMKuhxN2v.wFYyMkjVhxn69uL7), [Classification](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture04/Lec04.pptx) | [Assignment 02](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Assignments/DSCI_633_Assignment_02.ipynb)| 07:59am 09/09/2021 |
-
-
 | 09/02/31 | [Recorded Lecture 5](https://rit.zoom.us/rec/share/sg2OBJLR7y509xWgQC013-yUMtyB3mCSahbMkhujXkYfAtdRzSSnY-DYDU0kOCpi.se7U0xAlD_gyzp99), [Training Models -1](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture05/Lec05.pptx) | Pop-Quiz added on myCourses | end of class |
 
 
