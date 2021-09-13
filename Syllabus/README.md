@@ -12,7 +12,7 @@ Course taught in Fall'21.
 | 09/02 | [Recorded Lecture 4](https://rit.zoom.us/rec/share/j8UE8RdCwzxM8HVG7QUKX1OF3RId-Keh2EjYzI8mENjQ8noNzDS3w6NqMKuhxN2v.wFYyMkjVhxn69uL7), [Classification](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture04/Lec04.pptx) | [Assignment 02](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Assignments/DSCI_633_Assignment_02.ipynb)| 07:59am 09/09/2021 |
 | 09/07 | [Recorded Lecture 5](https://rit.zoom.us/rec/share/sg2OBJLR7y509xWgQC013-yUMtyB3mCSahbMkhujXkYfAtdRzSSnY-DYDU0kOCpi.se7U0xAlD_gyzp99), [Training Models - 1](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture05/Lec05.pptx) | Pop-Quiz added on myCourses | end of class |
 | 09/09 | [Recorded Lecture 6](https://rit.zoom.us/rec/share/6S3pqSOUVjs9Kl2TETcG2yRgYH7XYY2_KQIXUKX_LPMEdS9kAeRSzWREhV6E6alT.a_BgCdhNKWe2mMAT), [Training Models - 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture06/Lec06.pptx)|
-| 09/14 | [Recorded Lecture 7], [Code Review](https://colab.research.google.com/drive/1OeCEehWMxfewphB0yW8VG_d0XA5YdBAZ?usp=sharing), [Classification (Decision Trees)] | Pop-Quiz | |
+| 09/14 | [Recorded Lecture 7], [Code Review](https://colab.research.google.com/drive/1OeCEehWMxfewphB0yW8VG_d0XA5YdBAZ?usp=sharing), [Classification (Decision Trees)] | Pop-Quiz | Assignment 03, due 7:50 am, 09/21/21 |
 | 09/14 | Project Topic, Data, Team Formation| | |
 | 09/16 | [Recorded Lecture 8], [Classification (Support Vector Machines)] | | |
 | 09/21 | [Recorded Lecture 9], [Classification (Nearest Neighbors)] | | |
