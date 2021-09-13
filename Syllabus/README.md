@@ -12,33 +12,34 @@ Course taught in Fall'21.
 | 09/02 | [Recorded Lecture 4](https://rit.zoom.us/rec/share/j8UE8RdCwzxM8HVG7QUKX1OF3RId-Keh2EjYzI8mENjQ8noNzDS3w6NqMKuhxN2v.wFYyMkjVhxn69uL7), [Classification](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture04/Lec04.pptx) | [Assignment 02](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Assignments/DSCI_633_Assignment_02.ipynb)| 07:59am 09/09/2021 |
 | 09/07 | [Recorded Lecture 5](https://rit.zoom.us/rec/share/sg2OBJLR7y509xWgQC013-yUMtyB3mCSahbMkhujXkYfAtdRzSSnY-DYDU0kOCpi.se7U0xAlD_gyzp99), [Training Models - 1](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture05/Lec05.pptx) | Pop-Quiz added on myCourses | end of class |
 | 09/09 | [Recorded Lecture 6](https://rit.zoom.us/rec/share/6S3pqSOUVjs9Kl2TETcG2yRgYH7XYY2_KQIXUKX_LPMEdS9kAeRSzWREhV6E6alT.a_BgCdhNKWe2mMAT), [Training Models - 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture06/Lec06.pptx)|
-| 09/14 | [Recorded Lecture 7], [Classification (Decision Trees)] | Pop-Quiz | |
+| 09/14 | [Recorded Lecture 7], [Code Review](https://colab.research.google.com/drive/1OeCEehWMxfewphB0yW8VG_d0XA5YdBAZ?usp=sharing), [Classification (Decision Trees)] | Pop-Quiz | |
+| 09/14 | Project Topic, Data, Team Formation| | |
 | 09/16 | [Recorded Lecture 8], [Classification (Support Vector Machines)] | | |
 | 09/21 | [Recorded Lecture 9], [Classification (Nearest Neighbors)] | | |
-| 09/23 | [Recorded Lecture 11], [Classification (Artificial Neural Networks)] | Pop-Quiz | |
-| 09/28 | [Recorded Lecture 12], [Ensemble Learning] | | |
-| 09/30 | [Recorded Lecture 13], [Classification (Decision Trees)] | Pop-Quiz | |
-| 10/05 | [Recorded Lecture 14], [Classification (Decision Trees)] | Pop-Quiz | |
-| 10/07 | [Recorded Lecture 15], [Classification (Decision Trees)] | Pop-Quiz | |
+| 09/23 | [Recorded Lecture 10], [Classification (Artificial Neural Networks)] | | |
+| 09/28 | [Recorded Lecture 11], [Ensemble Learning] | | |
+| 09/30 | [Recorded Lecture 12], [Clustering (k-means)] | | |
+| 10/05 | [Recorded Lecture 13], [Clustering (Hierarchical)] | | |
+| 10/07 | [Recorded Lecture 14], [Feature Engineering (Preprocessing)] | | |
 | 10/12 | No Lecture (Fall Break- No Classes) | | |
-| 10/14 | [Recorded Lecture 16], [Classification (Decision Trees)] | Pop-Quiz | |
-| 10/19 | [Recorded Lecture 17], [Classification (Decision Trees)] | Pop-Quiz | |
-| 10/21 | [Recorded Lecture 18], [Classification (Decision Trees)] | Pop-Quiz | |
-| 10/26 | [Recorded Lecture 19], [Classification (Decision Trees)] | Pop-Quiz | |
-| 10/28 | [Recorded Lecture 20], [Classification (Decision Trees)] | Pop-Quiz | |
-| 11/02 | [Recorded Lecture 21], [Classification (Decision Trees)] | Pop-Quiz | |
-| 11/04 | [Recorded Lecture 22], [Classification (Decision Trees)] | Pop-Quiz | |
-| 11/09 | [Recorded Lecture 23], [Classification (Decision Trees)] | Pop-Quiz | |
-| 11/11 | [Recorded Lecture 24], [Classification (Decision Trees)] | Pop-Quiz | |
-| 11/16 | [Recorded Lecture 7], [Classification (Decision Trees)] | Pop-Quiz | |
-| 11/18 | [Recorded Lecture 7], [Classification (Decision Trees)] | Pop-Quiz | |
-| 11/23 | [Recorded Lecture 7], [Classification (Decision Trees)] | Pop-Quiz | |
-| 11/25 | No Lecture (Thanksgiving Holiday)| | |
-| 11/30 | [Recorded Lecture 7], [Classification (Decision Trees)] | Pop-Quiz | |
-| 12/02 | [Recorded Lecture 7], [Classification (Decision Trees)] | Pop-Quiz | |
-| 12/07 | No Lecture (Reading Day) | | |
-| 12/09 | [Recorded Lecture 7], [Classification (Decision Trees)] | Pop-Quiz | |
-| 12/13 | [Recorded Lecture 7], [Classification (Decision Trees)] | Pop-Quiz | |
+| 10/14 | [Recorded Lecture 15], [Feature Engineering (Bias Problem)] | | |
+| 10/19 | [Recorded Lecture 16], [Model Evaluation] | | |
+| 10/21 | [Recorded Lecture 17], [Model Validation & Testing] | | |
+| 10/26 | [Recorded Lecture 18], [Hyperparameter Tuning] | | |
+| 10/28 | Project Assigned | | |
+| 11/02 | [Recorded Lecture 19], [Association Analysis - 1] | | |
+| 11/04 | [Recorded Lecture 20], [Association Analysis - 2] | | |
+| 11/09 | [Recorded Lecture 21], [Semi-Supervised Learning - 1] | | |
+| 11/11 | [Recorded Lecture 22], [Semi-Supervised Learning - 2] | | |
+| 11/16 | [Recorded Lecture 23], [Active Learning - 1] | | |
+| 11/18 | [Recorded Lecture 24], [Active Learning - 2] | | |
+| 11/23 | [Recorded Lecture 25], [Reinforcement Learning - 1] | | |
+| 11/25 | [Recorded Lecture 26], [Reinforcement Learning - 2] | | |
+| 11/30 | No Lecture (Thanksgiving Holiday)| | |
+| 12/02 | [Recorded Lecture 27], [Special Topics ] | | |
+| 12/07 | Project Presentation - 1 | | |
+| 12/09 | No Lecture (Reading Day) | | |
+| 12/13 | Project Presentation - 2 | | |
 
 
 
