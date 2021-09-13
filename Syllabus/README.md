@@ -36,10 +36,13 @@ Course taught in Fall'21.
 | 11/23 | [Recorded Lecture 25], [Reinforcement Learning - 1] | | |
 | 11/25 | [Recorded Lecture 26], [Reinforcement Learning - 2] | | |
 | 11/30 | No Lecture (Thanksgiving Holiday)| | |
-| 12/02 | [Recorded Lecture 27], [Special Topics ] | | |
+| 12/02 | [Recorded Lecture 27], [Special Topics] | | |
 | 12/07 | Project Presentation - 1 | | |
 | 12/09 | No Lecture (Reading Day) | | |
-| 12/13 | Project Presentation - 2 | | |
+| 12/14 | Project Presentation - 2 | | |
+| 12/16 | Project Report Due | | |
+
+
 
 
 
