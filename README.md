@@ -23,7 +23,7 @@ At the end of this course, students should be able to accomplish the following l
  2. Develop critical, entry-level skill sets required to solve real-world problems that utilize machine learning.
 
 ## Prerequisites
-Knowledge of Python and Github is required.  An excellent primer for python can be found [here](https://github.com/Akuli/python-tutorial). And a quick and dirty intro to Github can be found [here.](https://guides.github.com/activities/hello-world/) Together, they should help you get started.
+Knowledge of Python and Github is required.  An excellent primer for python can be found [here](https://github.com/Akuli/python-tutorial). And a quick and dirty intro to Github can be found [here.](https://guides.github.com/activities/hello-world/). I have not used it, but this comes highly recommended - [python programming] (https://developers.google.com/edu/python/Together, they should help you get started.)
 
 ## Time Management
 |Activity| Expected Time(hrs/wk) |
@@ -40,7 +40,7 @@ The course uses GitHub for assignment submission, discussions, and questions. I 
 - "An Introduction to Statistical Learning with Applications in R" by: Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani [(e-book made available by the authors)](https://web.stanford.edu/~hastie/ISLRv2_website.pdf)
 - "Pattern Recognition and Machine Learning", by Christopher M. Bishop
 
-There is no need to buy the book, they're for reference only. The lecture slides, links should cover all the material you need to do well in the class.
+There is no need to buy the book, they're for reference only. The lecture slides, links should cover all the material you need to do well in the class. I am open to feedback if you need more detailed content or a different course presentation format.
 **Grading**: Evaluation will be based on the following distribution: 
 
 |Activity| % Distribution |
