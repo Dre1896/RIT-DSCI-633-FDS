@@ -14,7 +14,7 @@ Course taught in Fall'21.
 | 09/09 | [Recorded Lecture 6](https://rit.zoom.us/rec/share/6S3pqSOUVjs9Kl2TETcG2yRgYH7XYY2_KQIXUKX_LPMEdS9kAeRSzWREhV6E6alT.a_BgCdhNKWe2mMAT), [Training Models - 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture06/Lec06.pptx)| Assignment 03 added to myCourses| 07:59a, 09/21/21 EST|
 | 09/14 | [Recorded Lecture 7](https://rit.zoom.us/rec/share/JN5HxR3Nxb_DFTKRP3fPRzvkCizUPQXQDqQgpZTRiWvrVyi8ETeJ651LQytiaGyf.LuVvmC0ZhqHyu6KO), [Code Review](https://colab.research.google.com/drive/1OeCEehWMxfewphB0yW8VG_d0XA5YdBAZ?usp=sharing), [Classification (Decision Trees)](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture07/Lec07.pptx) | Pop-Quiz | end of class|
 | 09/14 | Project Topic, Data, Team Formation| | |
-| 09/16 | [Recorded Lecture 8], [Classification (Support Vector Machines)] | | |
+| 09/16 | [Recorded Lecture 8](https://rit.zoom.us/rec/share/MOLRuKmOCSL_IkW1qKDEgRwYbzoK26WFWuUbPxG0xq3Ptv7U00yOr1aT7ZJ7TPOD.v4lbc-zD12140fR0), [Classification (Support Vector Machines)](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture08/Lec08.pptx), [In-class practise exercise](https://colab.research.google.com/drive/1rSxaLafk_2bIWjTpEW5u2V8VeCbpjRTn?usp=sharing)| | |
 | 09/21 | [Recorded Lecture 9], [Classification (Nearest Neighbors)] | | |
 | 09/23 | [Recorded Lecture 10], [Classification (Artificial Neural Networks)] | | |
 | 09/28 | [Recorded Lecture 11], [Ensemble Learning] | | |
