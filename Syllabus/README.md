@@ -15,7 +15,7 @@ Course taught in Fall'21.
 | 09/14 | [Recorded Lecture 7](https://rit.zoom.us/rec/share/JN5HxR3Nxb_DFTKRP3fPRzvkCizUPQXQDqQgpZTRiWvrVyi8ETeJ651LQytiaGyf.LuVvmC0ZhqHyu6KO), [Code Review](https://colab.research.google.com/drive/1OeCEehWMxfewphB0yW8VG_d0XA5YdBAZ?usp=sharing), [Classification (Decision Trees)](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture07/Lec07.pptx) | Pop-Quiz | end of class|
 | 09/14 | Project Topic, Data, Team Formation| | |
 | 09/16 | [Recorded Lecture 8](https://rit.zoom.us/rec/share/MOLRuKmOCSL_IkW1qKDEgRwYbzoK26WFWuUbPxG0xq3Ptv7U00yOr1aT7ZJ7TPOD.v4lbc-zD12140fR0), [Classification (Support Vector Machines)](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture08/Lec08.pptx), [In-class practise exercise](https://colab.research.google.com/drive/1rSxaLafk_2bIWjTpEW5u2V8VeCbpjRTn?usp=sharing)| | |
-| 09/21 | [Recorded Lecture 9], [Classification (Nearest Neighbors)] | | |
+| 09/21 | [Recorded Lecture 9], [Classification (Nearest Neighbors)](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture09/Lec09.pptx), [In-class practise exercise](https://colab.research.google.com/drive/1TAIm2QUcZLS8kEm15dMJfA-XLlWq1RKJ?usp=sharing)| | |
 | 09/23 | [Recorded Lecture 10], [Classification (Artificial Neural Networks)] | | |
 | 09/28 | [Recorded Lecture 11], [Ensemble Learning] | | |
 | 09/30 | [Recorded Lecture 12], [Clustering (k-means)] | | |
