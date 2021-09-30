@@ -18,7 +18,7 @@ Course taught in Fall'21.
 | 09/21 | [Recorded Lecture 9](https://rit.zoom.us/rec/share/i7zePTfWZVK04_RNN8WW2ziwMjWDJcQNGqIFpy1mxZFKfaMJ36ri_qXySUwCiyEl.Hpl4cYnFZ31mmfXv), [Classification (Nearest Neighbors)](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture09/Lec09.pptx), [In-class practise exercise](https://colab.research.google.com/drive/1TAIm2QUcZLS8kEm15dMJfA-XLlWq1RKJ?usp=sharing)|Pop-Quiz 4 | end of class|
 | 09/23 | [Recorded Lecture 10](https://rit.zoom.us/rec/share/zqX_NFLRLxYYawcriX8oPixeihjBE0VZ9LOMoJQa5pjeciax57Ek70dJhqx3IaOr.bPuVH2rXm2LDuIF3), [Classification (Artificial Neural Networks)](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture10/Lec10.pptx), [In-class practise Exercise](https://colab.research.google.com/drive/1unDMJ2NbjrQHV-zV9S371JxqeMMcX6br?usp=sharing) | | |
 | 09/28 | [Recorded Lecture 11](https://rit.zoom.us/rec/share/QurbcbTqXVwejm2G-RXwFIXM0aO9AioiGGiW9YEFKxpIQfsAyPohwUntlRW7ydrA.S8uJVvNGr5ncMpG5), [Ensemble Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture11/Lec11.pptx), [In-class practise Exercise](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling/notebook) | | |
-| 09/30 | [Recorded Lecture 12], [Clustering (k-means)] | | |
+| 09/30 | [Recorded Lecture 12], [Clustering (k-means)](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture12/Lec12.pptx), [In-class practise Exercise](https://www.kaggle.com/xvivancos/tutorial-clustering-wines-with-k-means)| | |
 | 10/05 | [Recorded Lecture 13], [Clustering (Hierarchical)] | | |
 | 10/07 | [Recorded Lecture 14], [Feature Engineering (Preprocessing)] | | |
 | 10/12 | No Lecture (Fall Break- No Classes) | | |
