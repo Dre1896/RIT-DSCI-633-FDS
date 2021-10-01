@@ -5,6 +5,7 @@ Course taught in Fall'21.
 ## Course Material
 | Date | Lecture | Assignment/Quiz | Due Date | 
 |-------|----------|--------------------------|----------|
+| -- |Lecture 0, [Hands-On Python Exercises](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture00) | n/a | n/a |
 | 08/24 |Lecture 1, [Introduction to Data Mining](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture01/Lec01.pptx) | n/a | n/a |
 | 08/26 |[Recorded Lecture 2](https://rit.zoom.us/rec/share/KzqVMPFxiQuyh5gc_082lpMAbuq_l0qBFWq5J-IhcEqSFJDH4JGW9NsujsPNL7Bh.EwV9roO3NykOJwU9), [Use Case](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture02/Lec02_CaseStudy.pptx) | Assignment 1 added to myCourses | 07:59a, 08/31/21 EST |
 | 08/26 | Project Teams formed by (4-5 members), Connect on slack. Email Names, Project topic, Dataset link to TA via email| | |08:00a-9:15a, 09/14/21|
@@ -18,7 +19,7 @@ Course taught in Fall'21.
 | 09/21 | [Recorded Lecture 9](https://rit.zoom.us/rec/share/i7zePTfWZVK04_RNN8WW2ziwMjWDJcQNGqIFpy1mxZFKfaMJ36ri_qXySUwCiyEl.Hpl4cYnFZ31mmfXv), [Classification (Nearest Neighbors)](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture09/Lec09.pptx), [In-class practise exercise](https://colab.research.google.com/drive/1TAIm2QUcZLS8kEm15dMJfA-XLlWq1RKJ?usp=sharing)|Pop-Quiz 4 | end of class|
 | 09/23 | [Recorded Lecture 10](https://rit.zoom.us/rec/share/zqX_NFLRLxYYawcriX8oPixeihjBE0VZ9LOMoJQa5pjeciax57Ek70dJhqx3IaOr.bPuVH2rXm2LDuIF3), [Classification (Artificial Neural Networks)](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture10/Lec10.pptx), [In-class practise Exercise](https://colab.research.google.com/drive/1unDMJ2NbjrQHV-zV9S371JxqeMMcX6br?usp=sharing) | | |
 | 09/28 | [Recorded Lecture 11](https://rit.zoom.us/rec/share/QurbcbTqXVwejm2G-RXwFIXM0aO9AioiGGiW9YEFKxpIQfsAyPohwUntlRW7ydrA.S8uJVvNGr5ncMpG5), [Ensemble Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture11/Lec11.pptx), [In-class practise Exercise](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling/notebook) | | |
-| 09/30 | [Recorded Lecture 12], [Clustering (k-means)](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture12/Lec12.pptx), [In-class practise Exercise](https://www.kaggle.com/xvivancos/tutorial-clustering-wines-with-k-means)| | |
+| 09/30 | [Recorded Lecture 12](https://rit.zoom.us/rec/share/0Bp_I3iZnS1fCvlX3w2E_YFbr5IqMJwL0nurpaZjxp_v0vgpSKqkmyNxANmSqbW0.Fq7TVxDSuVBmhjLv), [Clustering (k-means)](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture12/Lec12.pptx), [In-class practise Exercise](https://www.kaggle.com/xvivancos/tutorial-clustering-wines-with-k-means)| | |
 | 10/05 | [Recorded Lecture 13], [Clustering (Hierarchical)] | | |
 | 10/07 | [Recorded Lecture 14], [Feature Engineering (Preprocessing)] | | |
 | 10/12 | No Lecture (Fall Break- No Classes) | | |
