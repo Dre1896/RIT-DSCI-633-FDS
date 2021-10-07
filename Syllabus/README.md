@@ -21,9 +21,9 @@ Course taught in Fall'21.
 | 09/28 | [Recorded Lecture 11](https://rit.zoom.us/rec/share/QurbcbTqXVwejm2G-RXwFIXM0aO9AioiGGiW9YEFKxpIQfsAyPohwUntlRW7ydrA.S8uJVvNGr5ncMpG5), [Ensemble Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture11/Lec11.pptx), [In-class practise Exercise](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling/notebook) | | |
 | 09/30 | [Recorded Lecture 12](https://rit.zoom.us/rec/share/0Bp_I3iZnS1fCvlX3w2E_YFbr5IqMJwL0nurpaZjxp_v0vgpSKqkmyNxANmSqbW0.Fq7TVxDSuVBmhjLv), [Clustering (k-means)](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture12/Lec12.pptx), [In-class practise Exercise](https://www.kaggle.com/xvivancos/tutorial-clustering-wines-with-k-means)| | |
 | 10/05 | [Recorded Lecture 13] Recording will be added on 10/13, [Clustering (Hierarchical)] | | |
-| 10/07 | [Recorded Lecture 14], [Feature Engineering (Preprocessing)], [e-Book](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf) | | |
+| 10/07 | [Recorded Lecture 14], [Feature Engineering 1](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture14/Lec14.pptx), [e-Book](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf) | | |
 | 10/12 | No Lecture (Fall Break- No Classes) | | |
-| 10/14 | [Recorded Lecture 15], [Feature Engineering (Bias Problem)] | | |
+| 10/14 | [Recorded Lecture 15], [Feature Engineering 2] | | |
 | 10/19 | [Recorded Lecture 16], [Model Evaluation] | | |
 | 10/21 | [Recorded Lecture 17], [Model Validation & Testing] | | |
 | 10/26 | [Recorded Lecture 18], [Hyperparameter Tuning] | | |
