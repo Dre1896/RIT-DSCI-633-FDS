@@ -23,8 +23,8 @@ Course taught in Fall'21.
 | 10/05 | [Recorded Lecture 13] Recording will be added on 10/13, [Clustering (Hierarchical)] | | |
 | 10/07 | [Recorded Lecture 14], [Feature Engineering 1](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture14/Lec14.pptx), [e-Book](https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf) | | |
 | 10/12 | No Lecture (Fall Break- No Classes) | | |
-| 10/14 | [Recorded Lecture 15], [Feature Engineering 2] | | |
-| 10/19 | [Recorded Lecture 16], [Model Evaluation] | | |
+| 10/14 | [Recorded Lecture 15], [Feature Engineering 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture15/Lec15.pptx)| | |
+| 10/19 | [Recorded Lecture 16], [Project Assignment, Evaluation Criteria],[Model Evaluation]| | |
 | 10/21 | [Recorded Lecture 17], [Model Validation & Testing] | | |
 | 10/26 | [Recorded Lecture 18], [Hyperparameter Tuning] | | |
 | 10/28 | Project Assigned | | |
