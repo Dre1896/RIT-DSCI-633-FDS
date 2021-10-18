@@ -28,20 +28,20 @@ Course taught in Fall'21.
 | 10/21 | [Recorded Lecture 17], [Semi-, Self-Supervised Learning] | | |
 | 10/26 | [Recorded Lecture 18], [Dimensionality Reduction] | | |
 | 10/28 | Project Assigned | | |
-| 11/02 | [Recorded Lecture 19], [Reinforcement Learning] | | |
-| 11/04 | [Recorded Lecture 20], [Training Deep Neural Networks-1] | | |
-| 11/09 | [Recorded Lecture 21], [Training Deep Nueral Networks-2] | | |
-| 11/11 | [Recorded Lecture 22], [Custom Models and Training with TensorFlow] | | |
-| 11/16 | [Recorded Lecture 23], [Loading and Preprocessing Data with TensorFlow] | | |
-| 11/18 | [Recorded Lecture 24], [Deep Computer Vision using CNNs - 1] | | |
-| 11/23 | [Recorded Lecture 25], [Deep Computer Vision using CNNs - 2] | | |
-| 11/25 | [Recorded Lecture 26], [Deep Computer Vision using CNNs - 3] | | |
-| 11/30 | No Lecture (Thanksgiving Holiday)| | |
-| 12/02 | [Recorded Lecture 27], [Special Topics (Visualization, Class poll)] | | |
-| 12/07 | Project Presentation - 1 | | |
+| 10/28 | [Recorded Lecture 19], [Reinforcement Learning] | | |
+| 11/02 | [Recorded Lecture 20], [Training Deep Neural Networks-1] | | |
+| 11/04 | [Recorded Lecture 21], [Training Deep Neural Networks-2] | | |
+| 11/09 | [Recorded Lecture 22], [Custom Models and Training with TensorFlow] | | |
+| 11/11 | [Recorded Lecture 23], [Loading and Preprocessing Data with TensorFlow] | | |
+| 11/16 | [Recorded Lecture 24], [Deep Computer Vision using CNNs - 1] | | |
+| 11/18 | [Recorded Lecture 25], [Deep Computer Vision using CNNs - 2] | | |
+| 11/23 | [Recorded Lecture 26], [Deep Computer Vision using CNNs - 3] | | |
+| 11/25 | No Lecture (Thanksgiving Holiday)| | |
+| 11/30 | Project Discussions, and other Topics| | |
+| 12/02 | Project Presentations - 1 (2-3 teams)| | |
+| 12/07 | Project Presentations - 2 (2-3 teams)| | |
 | 12/09 | No Lecture (Reading Day) | | |
-| 12/14 | Project Presentation - 2 | | |
-| 12/16 | Project Report Due | | |
+| 12/14 | Project Report Due | | |
 
 
 
