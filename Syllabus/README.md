@@ -29,7 +29,7 @@ Course taught in Fall'21.
 | 10/26 | [Recorded Lecture 18], [Dimensionality Reduction] | | |
 | 10/28 | Project Assigned | | |
 | 11/02 | [Recorded Lecture 19], [Reinforcement Learning] | | |
-| 11/04 | [Recorded Lecture 20], [Training Deep Nueral Networks-1] | | |
+| 11/04 | [Recorded Lecture 20], [Training Deep Neural Networks-1] | | |
 | 11/09 | [Recorded Lecture 21], [Training Deep Nueral Networks-2] | | |
 | 11/11 | [Recorded Lecture 22], [Custom Models and Training with TensorFlow] | | |
 | 11/16 | [Recorded Lecture 23], [Loading and Preprocessing Data with TensorFlow] | | |
