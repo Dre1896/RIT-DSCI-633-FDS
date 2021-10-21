@@ -42,8 +42,3 @@ Course taught in Fall'21.
 | 12/07 | Project Presentations - 2 (2-3 teams)| | |
 | 12/09 | No Lecture (Reading Day) | | |
 | 12/14 | Project Report Due | | |
-
-
-
-
-
