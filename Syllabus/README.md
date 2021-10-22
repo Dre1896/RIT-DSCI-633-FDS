@@ -25,7 +25,7 @@ Course taught in Fall'21.
 | 10/12 | No Lecture (Fall Break- No Classes) | | |
 | 10/14 | [Recorded Lecture 15](https://rit.zoom.us/rec/share/zdqe1K_LPSSkxc_yaDcEcVITvxM6hz1sIx0oLeMXlJd80sd9xncWPOiTv6FkD5Q9.tjE3VVAs0HUyPKPV), [Feature Engineering 2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture15/Lec15.pptx)| | |
 | 10/19 | [Recorded Lecture 16], [Project Assignment, Evaluation Criteria](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture16/ProjectGradingRubric.pptx), and [Data Imbalance](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture16/Lec16.pptx)| | |
-| 10/21 | [Recorded Lecture 17], [Semi-, Self-Supervised Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture17/Lec17.pptx) | | |
+| 10/21 | [Recorded Lecture 17](https://rit.zoom.us/rec/share/7kJW_kIXS0cDr-LCXYOi5pi0gGhh6ITWXO4d8C9ewxJSRt6-QOuACIYCrPmADtm-.ATh2wvuJqZwEr0rg), [Semi-, Self-Supervised Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture17/Lec17.pptx) | | |
 | 10/26 | [Recorded Lecture 18], [Dimensionality Reduction] | | |
 | 10/28 | Project Assigned | | |
 | 10/28 | [Recorded Lecture 19], [Reinforcement Learning] | | |
