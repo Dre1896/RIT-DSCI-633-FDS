@@ -40,5 +40,6 @@ Course taught in Fall'21.
 | 11/30 | Project Discussions, and other Topics| | |
 | 12/02 | Project Presentations - 1 (2-3 teams)| | |
 | 12/07 | Project Presentations - 2 (2-3 teams)| | |
-| 12/09 | No Lecture (Reading Day) | | |
-| 12/14 | Project Report Due | | |
+| 12/09 | Exam week (No class) | | |
+| 12/10 | Project Report Due | | |
+| 12/17 | Final Grades Due | | |
