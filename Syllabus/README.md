@@ -27,7 +27,7 @@ Course taught in Fall'21.
 | 10/19 | [Recorded Lecture 16], [Project Assignment, Evaluation Criteria](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture16/ProjectGradingRubric.pptx), and [Data Imbalance](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture16/Lec16.pptx)| | |
 | 10/21 | [Recorded Lecture 17](https://rit.zoom.us/rec/share/7kJW_kIXS0cDr-LCXYOi5pi0gGhh6ITWXO4d8C9ewxJSRt6-QOuACIYCrPmADtm-.ATh2wvuJqZwEr0rg), [Semi-, Self-Supervised Learning](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture17/Lec17.pptx) | | |
 | 10/26 | [Recorded Lecture 18], [Dimensionality Reduction](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture18/Lec18.pptx) | | |
-| 10/28 | Project Begins | | |
+| 10/28 | [Project Begins](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/ProjectFiles) - [Teams](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/ProjectFiles/Teams.xlsx) | | |
 | 10/28 | [Recorded Lecture 19], [Reinforcement Learning] | | |
 | 11/02 | [Recorded Lecture 20], [Training Deep Neural Networks-1] | | |
 | 11/04 | [Recorded Lecture 21], [Training Deep Neural Networks-2] | | |
