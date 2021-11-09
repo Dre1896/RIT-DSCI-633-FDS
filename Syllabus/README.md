@@ -32,10 +32,10 @@ Course taught in Fall'21.
 | 11/02 | [Recorded Lecture 20](https://rit.zoom.us/rec/share/AupIgMDo9NMkArJzeTDHmgkFvygMvqYTqJgX0V7rbcp8fL5Ot2WATweJEsX_ewV-.DwAjn0tAChQdX1H0), [Training Deep Neural Networks-1](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture20/Lec20.pptx), [In-class practice Exercise](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/11_training_deep_neural_networks.ipynb)| | |
 | 11/04 | [Recorded Lecture 21](https://rit.zoom.us/recording/detail?meeting_id=ZJmnKgR6QTGvbHKGzjkQDg%3D%3D), [Training Deep Neural Networks-2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture21/Lec21.pptx)|MyCourses down, no pop-quiz | |
 | 11/09 | [Recorded Lecture 22](https://rit.zoom.us/rec/share/Vf8GwxLGHx_A3aFGOZyuEWQ9KVk_N_HpNOWxBw-7Xu5SCHaRwndcNeOlQIJzHl0j.n2KHJHR2ioWWV_5W), [Training with TensorFlow](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture22/Lec22.pptx) | | |
-| 11/11 | [Recorded Lecture 23], [Loading and Preprocessing Data with TensorFlow] | | |
-| 11/16 | [Recorded Lecture 24], [Deep Computer Vision using CNNs - 1] | | |
-| 11/18 | [Recorded Lecture 25], [Deep Computer Vision using CNNs - 2] | | |
-| 11/23 | [Recorded Lecture 26], [Deep Computer Vision using CNNs - 3] | | |
+| 11/11 | Class Assignment for grade improvement | | |
+| 11/16 | [Recorded Lecture 23], [Deep Computer Vision using CNNs - 1] | | |
+| 11/18 | [Recorded Lecture 24], [Deep Computer Vision using CNNs - 2] | | |
+| 11/23 | [Recorded Lecture 25], [End-2-end DS Project Review ]| | |
 | 11/25 | No Lecture (Thanksgiving Holiday)| | |
 | 11/30 | Project Discussions, and other Topics| | |
 | 12/02 | Project Presentations - 1 (2-3 teams)| | |
