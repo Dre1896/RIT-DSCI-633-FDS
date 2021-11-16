@@ -33,9 +33,9 @@ Course taught in Fall'21.
 | 11/04 | [Recorded Lecture 21](https://rit.zoom.us/recording/detail?meeting_id=ZJmnKgR6QTGvbHKGzjkQDg%3D%3D), [Training Deep Neural Networks-2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture21/Lec21.pptx)|MyCourses down, no pop-quiz | |
 | 11/09 | [Recorded Lecture 22](https://rit.zoom.us/rec/share/Vf8GwxLGHx_A3aFGOZyuEWQ9KVk_N_HpNOWxBw-7Xu5SCHaRwndcNeOlQIJzHl0j.n2KHJHR2ioWWV_5W), [Training with TensorFlow](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture22/Lec22.pptx) | | |
 | 11/11 | Class Assignment for grade improvement | | |
-| 11/16 | Review 1, End-2-End ML (Supervised Learning)| [Dataset](https://www.kaggle.com/kabure/predicting-credit-risk-model-pipeline) | |
-| 11/18 | Review 2, End-2-End ML (Unsupervised Learning)| [Dataset] | |
-| 11/23 | Review 3, End-2-End ML (DNNs)| [Dataset]| |
+| 11/16 | Review 1, End-2-End ML (Supervised Learning), [Class Exercise](https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb)| [Practise Dataset](https://www.kaggle.com/kabure/predicting-credit-risk-model-pipeline) | |
+| 11/18 | Review 2, End-2-End ML (Unsupervised Learning)| [Practise Dataset] | |
+| 11/23 | Review 3, End-2-End ML (DNNs)| [Practise Dataset]| |
 | 11/25 | No Lecture (Thanksgiving Holiday)| | |
 | 11/30 | [Recorded Lecture 23], [Deep Computer Vision using CNNs]| | |
 | 12/02 | Project Presentations - 1 (2-3 teams)| | |
