@@ -33,11 +33,11 @@ Course taught in Fall'21.
 | 11/04 | [Recorded Lecture 21](https://rit.zoom.us/recording/detail?meeting_id=ZJmnKgR6QTGvbHKGzjkQDg%3D%3D), [Training Deep Neural Networks-2](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture21/Lec21.pptx)|MyCourses down, no pop-quiz | |
 | 11/09 | [Recorded Lecture 22](https://rit.zoom.us/rec/share/Vf8GwxLGHx_A3aFGOZyuEWQ9KVk_N_HpNOWxBw-7Xu5SCHaRwndcNeOlQIJzHl0j.n2KHJHR2ioWWV_5W), [Training with TensorFlow](https://github.com/aiforsec/RIT-DSCI-633-FDS/blob/main/Syllabus/Lecture22/Lec22.pptx) | | |
 | 11/11 | Class Assignment for grade improvement | | |
-| 11/16 | [Recorded Lecture 23], [Deep Computer Vision using CNNs - 1] | | |
-| 11/18 | [Recorded Lecture 24], [Deep Computer Vision using CNNs - 2] | | |
-| 11/23 | [Recorded Lecture 25], [End-2-end DS Project Review ]| | |
+| 11/16 | Review 1, End-2-End ML (Supervised Learning)| [Dataset](https://www.kaggle.com/kabure/predicting-credit-risk-model-pipeline) | |
+| 11/18 | Review 2, End-2-End ML (Unsupervised Learning)| [Dataset] | |
+| 11/23 | Review 3, End-2-End ML (DNNs)| [Dataset]| |
 | 11/25 | No Lecture (Thanksgiving Holiday)| | |
-| 11/30 | Project Discussions, and other Topics| | |
+| 11/30 | [Recorded Lecture 23], [Deep Computer Vision using CNNs]| | |
 | 12/02 | Project Presentations - 1 (2-3 teams)| | |
 | 12/07 | Project Presentations - 2 (2-3 teams)| | |
 | 12/09 | Exam week (No class) | | |
